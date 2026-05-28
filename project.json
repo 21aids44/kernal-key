@@ -1,0 +1,23 @@
+{
+  "overview": "A 3D immersive landing page for Kernal & Key — a startup offering paid internship programs with certificates and placement for college students.",
+  "features": [
+    "Animated 3D hero section with floating particles and rotating geometry",
+    "What We Offer section with glassmorphism service cards",
+    "How It Works 4-step flow with animated connectors",
+    "Sample student testimonials with star ratings",
+    "Futuristic light theme with electric blue and purple accents",
+    "Smooth scroll animations and parallax effects",
+    "Prominent call-to-action buttons"
+  ],
+  "category": "landing-page",
+  "tags": [
+    "startup",
+    "internship",
+    "3d",
+    "animation",
+    "futuristic",
+    "glassmorphism",
+    "students"
+  ],
+  "last_updated": "2026-05-28T16:32:19.599Z"
+}
